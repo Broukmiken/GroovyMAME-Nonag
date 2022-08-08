@@ -2,12 +2,11 @@ Hello,
 
 this is groovymame Nonag for windows
 
-
-
+👍
 
 USAGE:
 
-Hello,
+
 
 first, download latest groovymame_XXXXXXXX_win-7-8-10.7z by  antonioginer
 https://github.com/antonioginer/GroovyMAME/releases/latest
@@ -44,5 +43,5 @@ skip_warnings 1
 
 AND VISIT http://forum.arcadecontrols.com/index.php/topic,165277.msg1742902.html#msg1742902
 
-TO THANK ME...
+TO THANK ME... 🦖
 
