@@ -30,8 +30,8 @@ writeconfig               0
 disable_hiscore_patch     0
 disable_nagscreen_patch   0
 disable_loading_patch     0
-skip_gameinfo       1
-skip_warnings       1
+skip_gameinfo			  1
+skip_warnings			  1
 
 
 
