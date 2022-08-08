@@ -23,15 +23,21 @@ replace the original mame.exe file in Groovymame Directory by my modded mame.exe
 
 in your mame.ini you can add :
 
-# CORE CONFIGURATION OPTIONS
-#
-readconfig                1
-writeconfig               0
-disable_hiscore_patch     0
-disable_nagscreen_patch   0
-disable_loading_patch     0
-skip_gameinfo			  1
-skip_warnings			  1
+CORE CONFIGURATION OPTIONS
+
+readconfig   1
+
+writeconfig   0
+
+disable_hiscore_patch 0
+
+disable_nagscreen_patch 0
+
+disable_loading_patch 0
+
+skip_gameinfo 1
+
+skip_warnings 1
 
 
 
