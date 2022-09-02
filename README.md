@@ -20,7 +20,7 @@ replace the original mame.exe file in Groovymame Directory by my modded mame.exe
 
 
 
-in your mame.ini you can add :
+in your mame.ini you have to add/replace by :
 
 CORE CONFIGURATION OPTIONS
 
