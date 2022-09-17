@@ -45,5 +45,5 @@ skip_warnings 1
 
 AND VISIT http://forum.arcadecontrols.com/index.php/topic,165277.msg1742902.html#msg1742902
 
-TO THANK ME... 🦖
+🦖
 
