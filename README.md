@@ -1,6 +1,12 @@
+
+
+
 Hello,
 
 this is groovymame Nonag for windows
+
+<img alt="GitHub Downloads (all assets, all releases)" src="https://img.shields.io/github/downloads/Broukmiken/GroovyMAME-Nonag/total">
+
 
 👍
 
